@@ -71,3 +71,12 @@ body {
     background: rgb(255, 228, 124);
     background: radial-gradient(circle, rgba(255, 228, 124, 1) 2%, rgba(249, 113, 97, 1) 100%);
 }
+
+.main_content {
+    background: rgba(255, 228, 124, 1);
+}
+
+.button_colors {
+    background: rgb(195, 215, 251);
+    background: radial-gradient(circle, rgba(195, 215, 251, 1) 49%, rgba(143, 236, 255, 1) 100%);
+}
