@@ -8,4 +8,4 @@ You're awesome my friend :3
 
 Anyways this is hosted on netlify since saeky recommeneded it to me
 
-#Remember to stay awesome 
+<h1>Remember to stay awesome </h1>
